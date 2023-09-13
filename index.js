@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <body>
 
@@ -17,6 +17,5 @@ let z = x + y;
 // Display z
 document.getElementById("demo").innerHTML = "The sum of x + y is: " + z;
 </script>
-
 </body>
 </html>
